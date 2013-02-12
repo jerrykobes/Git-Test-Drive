@@ -1,0 +1,1 @@
+Another file added to the root app directory while checking out branch master.
